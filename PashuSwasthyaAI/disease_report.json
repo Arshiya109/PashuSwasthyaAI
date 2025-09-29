@@ -1,0 +1,10 @@
+{
+    "Disease": "Bloat",
+    "Stage": "NonCritical",
+    "Expected_Recovery_Time (days)": 15,
+    "Cause of Disease": "Excess lush pasture, high grain intake, rumen gas buildup",
+    "Precautions": "Avoid sudden introduction to lush pasture and regulate grain feeding.",
+    "Care": "Keep the animal calm and provide supportive care until gas release occurs.",
+    "Home Remedies": "Provide vegetable oil drench and allow neem stick chewing.",
+    "Treatment/Medicine": "Administer antifoaming agents and perform trocarization or rumenotomy if necessary."
+}
